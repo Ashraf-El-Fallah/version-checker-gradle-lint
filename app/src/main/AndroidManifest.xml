@@ -3,7 +3,7 @@
     package="com.picpay.gradlelint.versioncheck.sample">
 
     <application
-        android:allowBackup="true"
+        android:allowBackup="flase"
         android:icon="@android:drawable/ic_dialog_alert"
         android:label="@android:string/dialog_alert_title"
         android:supportsRtl="true"
